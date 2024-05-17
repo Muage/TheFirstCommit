@@ -1,2 +1,2 @@
-email :
-gitID :
+email : past_exp@naver.com
+gitID : Muage
