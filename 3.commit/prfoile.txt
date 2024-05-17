@@ -1,2 +1,2 @@
-email : past_exp@naver.com
-gitID : Muage
+email : leeo2@kakao.com
+gitID : Le20
